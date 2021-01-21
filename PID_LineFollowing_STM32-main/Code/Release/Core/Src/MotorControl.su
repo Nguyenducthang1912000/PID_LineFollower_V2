@@ -1,0 +1,9 @@
+MotorControl.c:10:6:MotorL_EnablePWM	0	static
+MotorControl.c:15:6:MotorL_DisablePWM	0	static
+MotorControl.c:21:6:MotorR_EnablePWM	0	static
+MotorControl.c:26:6:MotorR_DisablePWM	0	static
+MotorControl.c:31:6:MotorL_SetPWM	0	static
+MotorControl.c:51:6:MotorR_SetPWM	0	static
+MotorControl.c:71:6:MotorR_Brake	0	static
+MotorControl.c:76:6:MotorL_Brake	0	static
+MotorControl.c:81:6:Servo_SetAngle	8	static

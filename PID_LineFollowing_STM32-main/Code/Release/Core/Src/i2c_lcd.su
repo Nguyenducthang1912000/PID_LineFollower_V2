@@ -1,0 +1,6 @@
+i2c_lcd.c:4:6:lcd_Write_byte	0	static
+i2c_lcd.c:47:6:lcd_Data_Write	24	static
+i2c_lcd.c:63:6:lcd_Control_Write	24	static
+i2c_lcd.c:25:6:lcd_init	8	static
+i2c_lcd.c:79:6:lcd_send_string	8	static
+i2c_lcd.c:83:6:Delete_LCD	8	static

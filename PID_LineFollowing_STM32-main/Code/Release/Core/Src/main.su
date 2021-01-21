@@ -1,0 +1,16 @@
+core_cm3.h:1499:26:__NVIC_GetPriorityGrouping	0	static
+stm32f1xx_ll_bus.h:447:22:LL_APB1_GRP1_EnableClock	8	static
+stm32f1xx_ll_bus.h:763:22:LL_APB2_GRP1_EnableClock	8	static
+stm32f1xx_ll_gpio.h:342:22:LL_GPIO_SetPinMode.constprop	0	static,ignoring_inline_asm
+stm32f1xx_ll_adc.h:2837:22:LL_ADC_SetChannelSamplingTime.constprop	16	static,ignoring_inline_asm
+stm32f1xx_ll_adc.h:2131:22:LL_ADC_REG_SetSequencerRanks.constprop	12	static,ignoring_inline_asm
+core_cm3.h:1686:26:NVIC_EncodePriority.constprop	0	static
+main.c:102:1:__io_putchar	0	static
+main.c:441:6:SystemClock_Config	8	static
+main.c:1105:6:GetThreshold	56	static
+main.c:1139:6:Sensor_Convert_A2D	20	static
+main.c:1158:6:Sensor_Print_Thres	16	static
+main.c:1167:6:Sensor_PrintValue	16	static
+main.c:1178:6:Sensor_Print_LineDetect	16	static
+main.c:116:5:main	152	static,ignoring_inline_asm
+main.c:1195:6:Error_Handler	0	static
